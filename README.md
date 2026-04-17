@@ -1,11 +1,10 @@
 ### Olá, eu sou o Igor Tiburcio! 👋
 
-Sou um Cientista de Dados focado em resolver problemas ponta a ponta (**End-to-End**). Combino a construção de pipelines de dados robustos com modelagem estatística avançada para entregar resultados de negócio.
+Sou um Engenheiro de Dados focado em resolver problemas ponta a ponta (**End-to-End**). Combino a construção de pipelines de dados robustos com modelagem estatística avançada para entregar resultados de negócio.
 
 - 🔭 **Atualmente trabalhando em:** Projetos End-to-End com Databricks, PySpark e SQL.
 - 🌱 **Aprendendo:** Aprofundando em Orquestração (Airflow) e Cloud (GCP).
 - 🎓 **Formação:** Graduado em Geografia (UFPE), Graduando em Sistemas de Informação (UFRPE), Mestrando em Desevolvimento e Meio Ambiente (UFPE).
-- ⚡ **Curiosidade:** Aplico modelos preditivos (ARIMA/SARIMA) para entender mudanças climáticas.
 ---
 
 ### 🛠 Tech Stack
