@@ -12,9 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro de Dados com experiência em ambientes de alto volume, migração de dados de ERP e construção de pipelines escaláveis em cloud. Combino engenharia de dados robusta com background em modelagem estatística e inteligência geográfica — uma perspectiva única que me permite conectar infraestrutura de dados a decisões de negócio.
-
-Atuo com **Python, Airflow, dbt e SQL** (PostgreSQL, MySQL, SQL Server), modelagem em arquitetura **Medallion e Estrela**, e pipelines em **GCP e Databricks**. Já liderei integrações via APIs, melhoria de DAGs com redução de até **30% no tempo de execução** de fluxos críticos e evolução de granularidade de dados para nível diário.
+Engenheiro de Dados com experiência em ambientes de alto volume, migração de dados e construção de pipelines escaláveis em cloud. Combino engenharia de dados robusta com background em modelagem estatística e inteligência geográfica — uma perspectiva única que me permite conectar infraestrutura de dados a decisões de negócio.
 
 ---
 
@@ -27,7 +25,7 @@ Atuo com **Python, Airflow, dbt e SQL** (PostgreSQL, MySQL, SQL Server), modelag
  
 **Engenharia & Orquestração**
  
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
  
 **Bancos de Dados & Ferramentas SQL**
  
@@ -36,53 +34,43 @@ Atuo com **Python, Airflow, dbt e SQL** (PostgreSQL, MySQL, SQL Server), modelag
  
 **Cloud & Armazenamento**
  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)![Google Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-AECBFA?style=flat&logo=googlecloudstorage&logoColor=black)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white)![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)![Google Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-AECBFA?style=flat&logo=googlecloudstorage&logoColor=black)![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Em destaque
 
-### 🔴 [data_tranBR](https://github.com/IgorTiburcio81/data_tranBR) · `Concluído — em aprimoramento`
+ ### ☁️ Nimbus · `Em construção` 
 
-Pipeline End-to-End no **Databricks** para análise de uma série histórica de **acidentes de trânsito no Brasil** entre 2007 e 2024. Extração, transformação e modelagem de dados do registro nacional de acidentes com PySpark e SQL.
+O **Nimbus** é uma iniciativa open source que estamos construindo para entregar alertas meteorológicos e de risco hídrico de forma acessível, confiável e transparente para a população, começando por Pernambuco.
 
-**Stack:** Databricks · PySpark · SQL · Delta Lake
-
----
-
-### 🟡 [PEPluvi](https://github.com/IgorTiburcio81/PEPluvi) · `Em andamento`
-
-Web scraping e pipeline de análise pluviométrica do **estado de Pernambuco**. Coleta automatizada de dados de precipitação para estudos de padrões climáticos e recursos hídricos.
-
-**Stack:** Python · Selenium · beautifulsoup · Airflow · Postgres · Análise de Séries Temporais 
+> Repositório em breve.
 
 ---
 
-### 🟡 [Projeto Sismos](https://github.com/IgorTiburcio81/Earth_Sismos) · `Em desenvolvimento`
+## 📁 Outros projetos
 
-Pipeline **End-to-End** para coleta, processamento e análise de dados globais de atividade sísmica. Ingestão de APIs externas, transformação e visualização de padrões geoespaciais de terremotos.
-
-**Stack:** Python · API Integration · DuckDB · PySpark · Airflow
-
----
-
-### 🔵 [open-the-gate-data-engineering](https://github.com/IgorTiburcio81/open-the-gate-data-engineering) · `Em andamento`
-
-Guia didático de **Engenharia de Dados para iniciantes** — do zero ao pipeline. Conteúdo estruturado cobrindo fundamentos, ferramentas e boas práticas do ecossistema moderno de dados.
-
-**Stack:** Documentação · Python · SQL · Conceitos de Data Engineering
+| Projeto                                                                                            | Descrição                                                            | Stack                             | Status          |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------- | --------------- |
+| [data_tranBR](https://github.com/IgorTiburcio81/data_tranBR)                                       | Série histórica de acidentes de trânsito no Brasil (2007–2024)       | Databricks · PySpark · Delta Lake | ✅ Concluído     |
+| [PEPluvi](https://github.com/IgorTiburcio81/PEPluvi)                                               | Pipeline pluviométrico de Pernambuco com scraping e séries temporais | Python · Airflow · PostgreSQL     | ✅ Concluído     |
+| [open-the-gate-data-engineering](https://github.com/IgorTiburcio81/open-the-gate-data-engineering) | Guia didático de Engenharia de Dados para iniciantes                 | Python · SQL · Docs               | 🔄 Em andamento |
 
 ---
 
 ## 💼 Experiência Profissional
 
-**Engenheiro de Dados** — Grau Educacional · _Jan 2026 – Presente_
+**Engenheiro de Dados** — Simbiox · Jun 2026 – Presente_
+
+>Projetos de migração de dados e arquitetura cloud. Atua com Python, SQL e Apache Spark, aplicando testes unitários, boas práticas de engenharia e governança de dados — incluindo anonimização e mascaramento conforme diretrizes de privacidade. Stack centrada em OCI (Oracle Cloud Infrastructure), com uso de Oracle AI Database e OCI AI Data Platform para conectar pipelines a iniciativas de IA. 
+
+**Engenheiro de Dados** — Grau Educacional · _Jan 2026 – Jun 2026_
 
 > Estruturação e evolução do ambiente analítico com foco em performance. Orquestração de pipelines com Python, Airflow e dbt; otimização de DAGs com redução de até **30% no tempo de execução**; migração de dados do ERP Sankhya (Oracle) para PostgreSQL via APIs.
 
-**Engenheiro de Dados Trainee** — IBPAD · _Out 2025 – Jan 2026_
+**Engenheiro de Dados Trainee** — IBPAD · _Set 2025 – Jan 2026_
 
-> Arquitetura de dados em GCP (GCS + BigQuery) no padrão Medallion e modelagem em estrela para CRM e métricas de campanhas. Pipelines em Databricks (PySpark) e Airflow com Docker.
+> Arquitetura de dados em GCP (GCS + BigQuery) no padrão Medallion e modelagem em estrela para CRM e métricas de campanhas. Pipelines em Databricks (PySpark) e Airflow.
 
 **Pesquisador — Análise de Dados** — Laboratório SERGEO/UFPE · _Ago 2022 – Dez 2025_
 
@@ -92,11 +80,11 @@ Guia didático de **Engenharia de Dados para iniciantes** — do zero ao pipelin
 
 ## 🎓 Formação
 
-|Instituição|Curso|Período|
-|---|---|---|
-|UFRPE|B.Sc. em Sistemas de Informação|2024 – Presente|
-|UFPE|M.Sc. em Desenvolvimento e Meio Ambiente|2024 – 2025|
-|UFPE|Licenciatura em Geografia|2020 – 2024|
+| Instituição | Curso                                    | Período         |
+| ----------- | ---------------------------------------- | --------------- |
+| UFRPE       | B.Sc. em Sistemas de Informação          | 2024 – Presente |
+| UFPE        | M.Sc. em Desenvolvimento e Meio Ambiente | 2024 – 2026     |
+| UFPE        | Licenciatura em Geografia                | 2020 – 2024     |
 
 ---
 
