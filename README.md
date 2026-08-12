@@ -60,7 +60,7 @@ O **Nimbus** é uma iniciativa open source que estamos construindo para entregar
 
 ## 💼 Experiência Profissional
 
-**Engenheiro de Dados** — Simbiox · Jun 2026 – Presente_
+**Engenheiro de Dados** — Simbiox · _Jun 2026 – Presente_
 
 >Projetos de migração de dados e arquitetura cloud. Atua com Python, SQL e Apache Spark, aplicando testes unitários, boas práticas de engenharia e governança de dados — incluindo anonimização e mascaramento conforme diretrizes de privacidade. Stack centrada em OCI (Oracle Cloud Infrastructure), com uso de Oracle AI Database e OCI AI Data Platform para conectar pipelines a iniciativas de IA. 
 
